@@ -1,4 +1,4 @@
-#This is the DelphiBook wiki home page.
+  * This is the DelphiBook wiki home page.
 
 = Introduction =
 
@@ -7,7 +7,7 @@ Content is still under construction. I will be working on it over the next few d
 
 = Details =
 
-[[Source]]
+[Source]
 
 Add your content here.  Format your content with:
   * Text in *bold* or _italic_
