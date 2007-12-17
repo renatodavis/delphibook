@@ -1,0 +1,5 @@
+#summary About access to the project source code.
+
+The Version control system is [http://jedivcs.sourceforge.net/ JediVCS] .
+
+For security reasons, I do not publish the connection parameters. If you join the project as a developer, [mailto:sdurkin@gridsense.net write to me], and I will send  you the connection parameters.
